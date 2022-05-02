@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @DioFranco
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+😁   Hello world! I'm a QA Analyst and Quality Software specialized at Monomyto Game Studio.
+
+🌱   Currently preparing to get the CTFL certification.
+🦾   I can help you identify all the bugs in your game.
+📫   Reach me: diofrancogd@gmail.com
+
